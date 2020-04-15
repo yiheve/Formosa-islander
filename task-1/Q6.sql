@@ -1,0 +1,1 @@
+select count(*) from exchange_rates where rate >  2;

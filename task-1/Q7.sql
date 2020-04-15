@@ -1,0 +1,1 @@
+select min(date_of_fx), max(date_of_fx)  from exchange_rates;

@@ -1,0 +1,1 @@
+select date_of_fx, max(rate) from exchange_rates group by date_of_Fx;
